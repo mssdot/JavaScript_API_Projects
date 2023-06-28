@@ -8,7 +8,7 @@ All Practice JavaScript API projects
       <th> Live Link</th>
   </tr>
   <tr> 
-      <td> 1 </td>
+      <td>1</td>
       <td> Joke Generator</td>
       <td> https://mssjokegenerator.vercel.app </td>
   </tr>
